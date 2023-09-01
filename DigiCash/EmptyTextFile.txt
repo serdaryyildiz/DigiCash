@@ -1,0 +1,19 @@
+﻿
+
+
+Transaction services
+
+fonksyon isimleri ve async yapıları
+
+Postgre veritabanı işlemleri
+
+Mongodb veritabanı işlemleri
+
+User modelin düzenlenmesi
+User service
+User controller
+User kayıttan sonra veya talep halinde yeni cüzdan oluşturulması
+
+
+
+balance services ve balance controller güncelleme yaptım herhangi bir sorun yok şu anlık -burhan
